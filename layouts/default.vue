@@ -44,7 +44,9 @@ main .content a:not(.button) {
 
 .button.is-warning,
 .has-background-warning {
-  background-color: #f0d37a !important;
+  background-color: #f9b800 !important;
+  color: white;
+  font-weight: bold;
 }
 
 .button.is-danger,
@@ -53,7 +55,7 @@ main .content a:not(.button) {
 }
 
 .has-text-warning {
-  color: #f0d37a !important;
+  color: #f9b800 !important;
 }
 
 .has-text-danger {
